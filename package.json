@@ -1,0 +1,41 @@
+{
+  "name": "luvanbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "LuVan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "build-release": "^1.0.18",
+    "chalk": "^2.4.2",
+    "common-tags": "^1.8.0",
+    "discord-canvas": "^1.4.1",
+    "discord-music-player": "^7.0.1",
+    "discord-player": "^3.4.0",
+    "discord.js": "^12.5.1",
+    "discordjs-ytdl": "^2.2.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.8",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "npm.db": "^2.0.7",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "proton-io": "^0.1.5",
+    "simple-youtube-api": "^5.2.1",
+    "speed-test": "^2.1.0",
+    "speedtest-net": "^1.6.2",
+    "stack": "^0.1.0",
+    "steam-provider": "^0.3.2",
+    "useful-tools": "^0.2.6",
+    "weather-js": "^2.0.0",
+    "wio.db": "^3.0.9",
+    "ytdl-core": "^4.5.0"
+  }
+}
