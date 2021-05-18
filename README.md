@@ -1,2 +1,8 @@
-# eratle-bot
-I shared the v1 infrastructure of my own bot, Eratle.
+### About / Hakkında
+The infrastructure is entirely mine, there are bugs; If you fix bugs, it will work without any problems.
+Don't forget to install node.js v14!
+###
+Altyapı tamamiyle bana aittir, buglar bulunmaktadır; bugları fixlediğiniz takdirde sorunsuz çalışacaktır.
+node.js v14 kurmayı unutmayınız!
+
+luvaN#1000 | https://github.com/luvandevx
