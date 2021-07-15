@@ -5,4 +5,4 @@ Don't forget to install node.js v14!
 Altyapı tamamiyle bana aittir, buglar bulunmaktadır; bugları fixlediğiniz takdirde sorunsuz çalışacaktır.
 node.js v14 kurmayı unutmayınız!
 
-luvaN#1000 | https://github.com/luvandevx
+discord : mert#9999 | https://github.com/luvandevx
